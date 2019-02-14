@@ -23,9 +23,6 @@ repositories {
 
 dependencies {
     compile 'io.rest-assured:rest-assured:3.0.3'
-    compile 'org.apache.commons:commons-lang3:3.4'
     compile 'javax.ws.rs:javax.ws.rs-api:2.0.1'
-    compile 'org.projectlombok:lombok:1.18.2'
-    compile 'com.google.guava:guava:19.0'
 }
 
